@@ -1,0 +1,8 @@
+interface:
+  display_name: "狗狗品种基因猜想报告生成器"
+  short_description: "上传狗狗照片，自动生成1080×1920中文犬种猜想长图"
+  brand_color: "#E66A3D"
+  default_prompt: "请根据我上传的狗狗照片生成《狗狗品种基因猜想报告》。"
+
+policy:
+  allow_implicit_invocation: true
