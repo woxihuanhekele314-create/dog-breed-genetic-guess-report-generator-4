@@ -27,13 +27,14 @@
 ## 文件说明
 
 - `SKILL.md`：Skill 的核心执行规则
-- `openai.yaml`：相关配置文件
-- `参考布局.jpg`：报告视觉布局参考
-- `固定内容模板.md`：固定内容和文案结构
-- `成图审核清单.md`：最终图片审核标准
-- `测试示例.md`：测试案例
-- `视觉与版式参考.md`：视觉设计规范
-- `安装与使用.md`：安装与使用说明
+- `agents/openai.yaml`：Skill 界面及调用配置
+- `assets/reference-layout.jpg`：报告视觉布局参考
+- `references/固定内容模板.md`：固定内容和文案结构
+- `references/视觉与版式参考.md`：视觉设计规范
+- `references/成图审核清单.md`：最终成图审核标准
+- `references/测试用例.md`：测试与验收案例
+- `docs/安装与使用.md`：安装与使用说明
+- `docs/可复制到Skill Creator的配置文本.md`：Skill Creator 配置参考
 
 ## 免责声明
 
