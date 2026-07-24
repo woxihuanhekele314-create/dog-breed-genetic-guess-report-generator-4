@@ -32,7 +32,6 @@
 - `references/固定内容模板.md`：固定内容和文案结构
 - `references/视觉与版式参考.md`：视觉设计规范
 - `references/成图审核清单.md`：最终成图审核标准
-- `references/测试用例.md`：测试与验收案例
 - `docs/安装与使用.md`：安装与使用说明
 - `docs/可复制到Skill Creator的配置文本.md`：Skill Creator 配置参考
 
